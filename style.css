@@ -1,0 +1,92 @@
+/*
+>> Written by:GOW--Subodha Wijesekara.
+>> Compatible with any Web browser.
+>> You can edit every numeric values and colors in below CSS code.
+>> Be strong with your unique skill.
+>> See you in highest place that your dream ends.
+*/
+
+body{
+    margin: 0%;
+}
+.logo{
+    font-family:Segoe UI Light;
+    color: #0e0e0e;
+    font-size:50px;
+    margin:80px auto 0px auto;
+    padding: 0%;
+    width: 400px;
+}
+.desc-black{
+    font-family:Segoe UI Light;
+    color: #0e0e0e;
+    font-size:18px;
+    margin:4px auto 0px auto;
+    padding: 0%;
+    width: 600px;
+    text-align: center;
+}
+.content{
+    width: 600px;
+    margin:32px auto 32px auto;
+}
+.searchin{
+    width: 574px;
+    background-color: #fff;
+    border: 1px solid #222;
+    height: 50px;
+    border-radius:8px;
+    float: left;
+    font-size: 18px;
+    padding: 0px 12px;
+    margin:0px;
+    
+}
+.desc-blue{
+    font-family:Segoe UI Light;
+    color: #1e90ff;
+    font-size:18px;
+    margin:10px auto 0px auto;
+    padding: 0%;
+    width: 600px;
+    text-align: left;
+    float: left;
+}
+::placeholder{
+    color: #0e0e0e;
+    font-family: Segoe UI Light;
+    font-size: 18px;
+}
+.searchbtn{
+    padding: 4px 16px;
+    float: left;
+    margin: 6px 6px 6px 6px;
+    font-family: Segoe UI Light;
+    color: #fff;
+    background-color: #1176db;
+    font-size: 18px;
+    border: 1px solid #1176db;
+}
+.desc-bottom{
+    font-family:Segoe UI Light;
+    color: #0e0e0e;
+    font-size:14px;
+    margin:200px auto 0px auto;
+    padding:12px;
+    width:576px;
+    text-align: left;
+    background-color: #2d92f721;
+    float: left;
+}
+.disclaimer{
+    font-family:Segoe UI Light;
+    color: #0e0e0e;
+    font-size:14px;
+    margin:100px auto 0px auto;
+    padding:12px;
+    width:576px;
+    text-align:center;
+    background-color: #fff;
+    float: left;
+}
+
